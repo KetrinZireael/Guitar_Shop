@@ -1,0 +1,62 @@
+[
+    {
+        "id": "el1",
+        "name": "EVH 5150 SERIES STANDARD MN SATIN PRIMER GREY",
+        "img": "https://muztorg.ua/image/cache/catalog/99992/229536/229536_EVH%205150%20SERIES%20STANDARD%20MN%20SATIN%20PRIMER%20GREY_1-1200x800.jpg",
+        "price": 19950
+    },
+    {
+        "id": "el2",
+        "name": "FENDER ALTERNATE REALITY METEORA HH PF SFG",
+        "img": "https://muztorg.ua/image/cache/catalog/99992/229094/229094_FENDER%20ALTERNATE%20REALITY%20METEORA%20HH%20PF%20SFG_1-1200x800.jpg",
+        "price": 25365
+    },
+    {
+        "id": "el3",
+        "name": "FENDER PARALLEL UNIVERSE METEORA MN BTB",
+        "img": "https://muztorg.ua/image/cache/catalog/99995/227470/227470_1-1200x800.jpg",
+        "price": 20000
+    },
+    {
+        "id": "el4",
+        "name": "FENDER AMERICAN PROFESSIONAL TELE LTD ED RSTNK OCT",
+        "img": "https://muztorg.ua/image/cache/catalog/99994/230319/230319_1-1200x800.JPG",
+        "price": 15675
+    },
+    {
+        "id": "el5",
+        "name": "FENDER OFFSET DUO-SONIC MN CAPRI ORANGE",
+        "img": "https://muztorg.ua/image/cache/catalog/products/1144610-1200x800.jpg",
+        "price": 1642
+    },
+    {
+        "id": "el6",
+        "name": "GIBSON 2018 FIREBIRD EBONY",
+        "img": "https://muztorg.ua/image/cache/catalog/99994/226659/DSFR318EBCH1_MAIN_HERO_01-1200x800.jpg",
+        "price": 37050
+    },
+    {
+        "id": "el7",
+        "name": "GIBSON FLYING V ANTIQUE NATURAL",
+        "img": "https://muztorg.ua/image/cache/catalog/99992/228935/228935_GIBSON%20FLYING%20V%20ANTIQUE%20NATURAL_1-1200x800.jpg",
+        "price": 39900
+    },
+    {
+        "id": "el8",
+        "name": "GIBSON ES-335 BIG BLOCK RETRO WOOD ROSE",
+        "img": "https://muztorg.ua/image/cache/catalog/99994/226465/1188465-1200x800.jpg",
+        "price": 108300
+    },
+    {
+        "id": "el9",
+        "name": "IBANEZ RG1127PBFX CIF",
+        "img": "https://muztorg.ua/image/cache/catalog/99994/229690/229690_5-1200x800.jpg",
+        "price": 28350
+    },
+    {
+        "id": "el10",
+        "name": "IBANEZ RG5320-CSW",
+        "img": "https://muztorg.ua/image/cache/catalog/99992/229672/229672_IBANEZ%20RG5320-CSW_1-1200x800.jpg",
+        "price": 31134
+    }
+]
